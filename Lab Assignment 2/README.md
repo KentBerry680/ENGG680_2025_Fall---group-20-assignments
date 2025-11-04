@@ -1,8 +1,8 @@
 We are Group 20
-Kent Berry - 30143717
-Sungsil Park - 30301122
-Junhui Park - 30301160
-Gyumin Kim - 30301218
+Kent Berry - 30143717,
+Sungsil Park - 30301122,
+Junhui Park - 30301160,
+Gyumin Kim - 30301218,
 
 This is where our group will complete assignment 2!
 
